@@ -1,0 +1,25 @@
+body
+{
+    background-color: palevioletred;
+}
+.heading
+{
+    width: 80%;
+    font-size: 20px;
+}
+.name_of_object, #result_object_name, #result_object_accuracy
+{
+    color: seagreen;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
